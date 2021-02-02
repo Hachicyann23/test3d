@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	text-decoration: none;
+}
+
+nav{
+	display: flex;
+	flex-direction: column;
+}
+
