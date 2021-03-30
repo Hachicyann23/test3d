@@ -1,0 +1,45 @@
+header {
+	height: 10vh;
+	display: flex;
+	align-items: center;
+}
+.logo {
+	width: 50%;
+}
+.logo a {
+	position: relative;
+	left: 5%;
+	font-weight: 700;
+	font-size: 20px;
+	text-decoration: none;
+}
+.containerSign {
+	align-items: flex-end;
+	width: 50%;
+	display: flex;
+	margin: 30px;
+	text-align: center;
+}
+.sigNp {
+	text-align: end;
+	width: 80%;
+	padding: 10px;
+}
+.sigNp a{
+	text-decoration: none;
+	font-weight: 700;
+	color: black;
+}
+.buttonSign{
+	margin-left: 5%;
+	padding: 10px;
+	width: 20%;
+	min-width: 100px;
+	border-radius: 10px;
+	background:$birumuda;
+}
+.buttonSign a {
+	text-decoration: none;
+	color: $white;
+	font-weight: 700;
+}
